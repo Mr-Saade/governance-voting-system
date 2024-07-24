@@ -1,0 +1,16 @@
+
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+deployments/
+.pnp.cjs
+.pnp.loader.mjs
+proposals.json
+.yarn
+
